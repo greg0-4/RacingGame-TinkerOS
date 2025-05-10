@@ -1,3 +1,6 @@
+# Warning
+This game runs in 60 FPS so if you prefer to have your OS run at 30 FPS, change it back after playing the game.
+
 # About the game
 This game was a small project of mine to understand HolyC, Im using TinkerOS instead of TempleOS because it just works better and it looks more like TempleOS and HolyC is also like TempleOS unlike ZealOS
 
